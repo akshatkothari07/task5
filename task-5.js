@@ -22,7 +22,7 @@ function makeEmboss(){
     foto.applyEmbossFilter();
 }
 function makeSharp(){
-    foto.applySharpfilter();
+    foto.applySharpFilter();
 }
 
 function download()
